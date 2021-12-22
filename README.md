@@ -191,3 +191,9 @@ while cap.isOpened():
   out.write(output)
 out.release()
 print("Done processing video")
+
+
+<-----------------------------------------------DONE-------------------------------------------------->
+
+=>If you are unable to do this project yourself then I will upload a youtube video and give its link here.you can wathh that video and be able to build this project.
+=>The video can be uploaded anytime in 2022
